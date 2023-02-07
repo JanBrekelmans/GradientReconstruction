@@ -58,6 +58,3 @@ def read_unv_elements(reader):
 
         line = reader.readline()
 
-def read_unv_groups(reader):
-    pass
-
